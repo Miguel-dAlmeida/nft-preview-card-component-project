@@ -75,7 +75,7 @@ Veja na prática como foram utilizadas as extensões **Awesome Screenshot & Scre
 Na imagem, é possível observar as divisões feitas no design do projeto. No Workshop, o professor Beto destacou a importância de realizar essa análise estrutural antes de iniciar o código. Ele explicou que, ao planejarmos as seções e refletirmos sobre a estrutura _HTML_ e sua resposta no _CSS_, diminuímos as chances de travar durante a codificação. Com esse aprendizado, passarei a usar essa extensão sempre para planejar minha estrutura antes de codar.
   
 ### _PerfectPixel:_
-<img src="./src/images/exemplo-uso-extensao-AwesomeScreenshotScreenRecorder.gif" alt="Gif demonstrando o uso da extensão Awesome Screenshot & Screen Recorder">
+<img src="https://raw.githubusercontent.com/Miguel-dAlmeida/nft-preview-card-component-project/main/src/images/exemplo-uso-extensao-AwesomeScreenshotScreenRecorder.gif" alt="Gif demonstrando o uso da extensão Awesome Screenshot & Screen Recorder">
 
 A extensão PerfectPixel foi utilizada para facilitar a estilização do layout, especialmente no que diz respeito às medidas. No caso do Frontend Mentor, por exemplo, os desafios disponibilizam apenas imagens do design, e o acesso ao arquivo no Figma é restrito ao plano Pro (pago). Isso significa que não temos acesso direto às especificações de espaçamentos, tamanhos de elementos e fontes.
 
@@ -148,5 +148,5 @@ Essas novas habilidades serão aplicadas em meus futuros projetos, facilitando o
   </div>
 
 <div>
-  <img src="https://i.imgur.com/kwfpJJn.gif" alt="Gif do resultado final da página" width="100%">
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/nft-preview-card-component-project/main/src/images/closingImage.gif" alt="Gif do resultado final da página" width="100%">
 </div>
