@@ -43,7 +43,7 @@ Além disso, o projeto precisa ser responsivo, garantindo que o cartão se ajust
 
  ## __Gif e URL da Página__
    <div>
-  <img src="./src/images/gif-pagina-do-projeto.gif" alt="Gif do resultado final da página" >
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/nft-preview-card-component-project/main/src/images/gif-pagina-do-projeto.gif" alt="Gif do resultado final da página" >
 </div>
 
 ### [GitHub Pages](https://miguel-dalmeida.github.io/nft-preview-card-component-project/) 
@@ -147,6 +147,6 @@ Essas novas habilidades serão aplicadas em meus futuros projetos, facilitando o
         target="_blank"></a>
   </div>
 
-<div>
-  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/nft-preview-card-component-project/main/src/images/closingImage.gif" alt="Gif do resultado final da página" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Miguel-dAlmeida/nft-preview-card-component-project/main/src/images/closingImage.gif" alt="Imagem representando união e parceria" width="80%">
 </div>
