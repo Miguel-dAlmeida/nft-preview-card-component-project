@@ -136,7 +136,7 @@ Com a finalização deste aulão, avançarei para o próximo módulo, "__*Projet
 
 Agradeço por dedicar seu tempo para explorar este projeto e acompanhar minha jornada por meio deste diário técnico. Acredito que os conhecimentos adquiridos durante este workshop foram fundamentais para o meu crescimento como desenvolvedor, e já sinto que evoluí significativamente com as técnicas e conceitos aprendidos.
 
-Essas novas habilidades serão aplicadas em meus futuros projetos, facilitando a desenvolvimento dos mesmos. Ainda há muito a descobrir e aperfeiçoar, mas cada etapa concluída me aproxima do meu objetivo de alcançar a excelência no desenvolvimento web.
+Essas novas habilidades serão aplicadas em meus futuros projetos, facilitando o desenvolvimento dos mesmos. Ainda há muito a descobrir e aperfeiçoar, mas cada etapa concluída me aproxima do meu objetivo de alcançar a excelência no desenvolvimento web.
 
   <div style="margin-bottom: 20px;">
     <a style="padding-right: 3px;" href="https://www.linkedin.com/in/mariomigueldealmeida/" target="_blank"><img
